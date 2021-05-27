@@ -1,7 +1,7 @@
 # BlockChain
 A simple BlockChain showing how transactions are performed with cryptocurrencies.
 
-How to run:
+# How to run:
 git clone https://github.com/tarushm2006/BlockChain.git
 
 node blockChain.js
